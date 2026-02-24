@@ -1,0 +1,43 @@
+{
+  "schema_version": "2",
+  "failed_reloads_per_session": 5,
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+      "file/Quark Programmer Art.zip",
+      "builtin/plank_consistency",
+      "builtin/emissive_ores_compatibility",
+      "supplementaries:darker_ropes",
+      "programmer_art"
+    ],
+    "2": [
+      "vanilla",
+      "mod_resources"
+    ],
+    "3": [
+      "Moonlight Mods Dynamic Assets",
+      "file/FreshAnimations_v1.10.3.zip",
+      "file/Midnighttiggers-FCT-Default_1.20_V8.zip",
+      "file/rainbows-foliage-polytone-edition-v1.6.zip",
+      "file/Slightly-Improved-Font-1.1.5.zip"
+    ],
+    "$$1": {
+      "hidden": true,
+      "required": false
+    },
+    "$$2": {
+      "hidden": true,
+      "required": true,
+      "fixed_position": false,
+      "default_position": "BOTTOM"
+    },
+    "$$3": {
+      "hidden": true,
+      "required": true,
+      "fixed_position": false,
+      "default_position": "BOTTOM"
+    }
+  }
+}

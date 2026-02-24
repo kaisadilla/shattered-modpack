@@ -1,0 +1,13 @@
+{
+  "biome.atmospheric.rainforest": "Rainforest",
+  "biome.atmospheric.rainforest_basin": "Rainforest basin",
+  "biome.atmospheric.laurel_forest": "Laurel forest",
+  "biome.atmospheric.aspen_parkland": "Aspen forest",
+
+  "biome.atmospheric.dunes": "Xeric desert",
+  "biome.atmospheric.flourishing_dunes": "Yucca desert",
+  "biome.atmospheric.petrified_dunes": "Fossilized dunes",
+  "biome.atmospheric.spiny_thicket": "Spiny thicket",
+
+  "biome.atmospheric.kousa_jungle": "Kousa jungle"
+}

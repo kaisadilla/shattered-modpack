@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "biomesoplenty:mahogany_tree",
+    "features": [
+      {
+        "chance": 0.0625,
+        "feature": "natures_spirit:ghaf_checked"
+      }
+    ]
+  }
+}
