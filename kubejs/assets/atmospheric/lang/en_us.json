@@ -1,13 +1,18 @@
 {
-  "biome.atmospheric.rainforest": "Rainforest",
-  "biome.atmospheric.rainforest_basin": "Rainforest basin",
-  "biome.atmospheric.laurel_forest": "Laurel forest",
   "biome.atmospheric.aspen_parkland": "Aspen forest",
-
   "biome.atmospheric.dunes": "Xeric desert",
   "biome.atmospheric.flourishing_dunes": "Yucca desert",
-  "biome.atmospheric.petrified_dunes": "Fossilized dunes",
-  "biome.atmospheric.spiny_thicket": "Spiny thicket",
-
-  "biome.atmospheric.kousa_jungle": "Kousa jungle"
+  "biome.atmospheric.grimwoods": "[REMOVED] biome.atmospheric.grimwoods",
+  "biome.atmospheric.hot_springs": "[REMOVED] biome.atmospheric.hot_springs",
+  "biome.atmospheric.kousa_jungle": "Kousa jungle",
+  "biome.atmospheric.laurel_forest": "Laurel forest",
+  "biome.atmospheric.petrified_dunes": "[REMOVED] biome.atmospheric.petrified_dunes",
+  "biome.atmospheric.rainforest": "Rainforest",
+  "biome.atmospheric.rainforest_basin": "Rainforest basin",
+  "biome.atmospheric.rocky_dunes": "[REMOVED] biome.atmospheric.rocky_dunes",
+  "biome.atmospheric.scrubland": "[REMOVED] biome.atmospheric.scrubland",
+  "biome.atmospheric.snowy_scrubland": "[REMOVED] biome.atmospheric.snowy_scrubland",
+  "biome.atmospheric.sparse_rainforest": "Sparse rainforest",
+  "biome.atmospheric.sparse_rainforest_basin": "Sparse rainforest basin",
+  "biome.atmospheric.spiny_thicket": "Spiny thicket"
 }
