@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "shatteredcore:block/red_sandy_soil"
+      },
+      {
+        "model": "shatteredcore:block/red_sandy_soil",
+        "y": 90
+      },
+      {
+        "model": "shatteredcore:block/red_sandy_soil",
+        "y": 180
+      },
+      {
+        "model": "shatteredcore:block/red_sandy_soil",
+        "y": 270
+      },
+      {
+        "model": "shatteredcore:block/red_sandy_soil_rocky"
+      },
+      {
+        "model": "shatteredcore:block/red_sandy_soil_rocky",
+        "y": 90
+      },
+      {
+        "model": "shatteredcore:block/red_sandy_soil_rocky",
+        "y": 180
+      },
+      {
+        "model": "shatteredcore:block/red_sandy_soil_rocky",
+        "y": 270
+      }
+    ]
+  }
+}

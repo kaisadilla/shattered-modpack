@@ -24,7 +24,7 @@
 	jungle_toggle = true
 	swamp_toggle = true
 	desert_toggle = false
-	badlands_toggle = true
+	badlands_toggle = false
 	mountain_biomes_toggle = true
 	savanna_toggle = false
 	dark_forest_toggle = true

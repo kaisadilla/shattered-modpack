@@ -1165,7 +1165,7 @@
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "natures_spirit:arid_savanna",
@@ -1173,7 +1173,7 @@
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "minecraft:stony_shore"
@@ -1189,7 +1189,7 @@
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "natures_spirit:chaparral",
@@ -1197,7 +1197,7 @@
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "minecraft:stony_shore"
@@ -2347,7 +2347,7 @@
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "natures_spirit:arid_savanna",
@@ -2355,7 +2355,7 @@
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "minecraft:stony_shore"
@@ -2371,7 +2371,7 @@
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "natures_spirit:chaparral",
@@ -2379,7 +2379,7 @@
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "minecraft:stony_shore"
@@ -3548,15 +3548,15 @@
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "minecraft:stony_shore"
@@ -3572,15 +3572,15 @@
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "minecraft:stony_shore"
@@ -4604,10 +4604,14 @@
                 "natures_spirit:tropical_woods"
               ],
               "normal_river_bank": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "variant_river_bank": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "variant_inner_valley": [
                 "minecraft:sparse_jungle",
@@ -4636,7 +4640,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -4844,51 +4849,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -5881,7 +5886,9 @@
             },
             "wet": {
               "normal_outer_valley": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "normal_outer_slope": [
                 "minecraft:jungle",
@@ -5899,13 +5906,19 @@
                 "natures_spirit:tropical_woods"
               ],
               "normal_inner_valley": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "normal_river_bank": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "variant_river_bank": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "variant_inner_valley": [
                 "minecraft:sparse_jungle",
@@ -5934,7 +5947,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -6141,51 +6155,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -6320,14 +6334,14 @@
               ],
               "variant_inner_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_peak": [
                 "minecraft:windswept_gravelly_hills"
               ],
               "variant_outer_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_valley": [
                 "regions_unexplored:spires",
@@ -7122,7 +7136,9 @@
             },
             "wet": {
               "normal_outer_valley": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "normal_outer_slope": [
                 "minecraft:jungle",
@@ -7140,10 +7156,14 @@
                 "natures_spirit:tropical_woods"
               ],
               "normal_inner_valley": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "normal_river_bank": [
-                "minecraft:beach"
+                "minecraft:beach",
+                "minecraft:beach",
+                "natures_spirit:tropical_basin"
               ],
               "variant_river_bank": [
                 "minecraft:windswept_savanna"
@@ -7165,7 +7185,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -7361,27 +7382,27 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "natures_spirit:red_peaks"
@@ -7532,15 +7553,15 @@
               ],
               "variant_inner_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_peak": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_valley": [
                 "natures_spirit:tundra"
@@ -8657,51 +8678,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -9640,7 +9661,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -10888,7 +10910,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -12196,7 +12219,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -12406,51 +12430,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -13568,7 +13592,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -13778,51 +13803,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -14944,7 +14969,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -15154,51 +15180,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -15343,14 +15369,14 @@
               ],
               "variant_inner_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_peak": [
                 "minecraft:windswept_gravelly_hills"
               ],
               "variant_outer_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_valley": [
                 "regions_unexplored:spires",
@@ -16234,7 +16260,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -16432,27 +16459,27 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "minecraft:windswept_savanna"
@@ -16609,15 +16636,15 @@
               ],
               "variant_inner_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_peak": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_valley": [
                 "natures_spirit:tundra"
@@ -17350,9 +17377,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "minecraft:savanna",
@@ -17360,9 +17385,7 @@
                 "natures_spirit:cedar_thicket"
               ],
               "normal_inner_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -17377,9 +17400,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "minecraft:savanna",
@@ -17387,9 +17408,7 @@
                 "natures_spirit:cedar_thicket"
               ],
               "variant_outer_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -17403,9 +17422,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "minecraft:savanna",
@@ -17413,9 +17430,7 @@
                 "biomesoplenty:old_growth_dead_forest"
               ],
               "normal_inner_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -17430,9 +17445,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "minecraft:savanna",
@@ -17440,9 +17453,7 @@
                 "biomesoplenty:old_growth_dead_forest"
               ],
               "variant_outer_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -17458,8 +17469,11 @@
               ],
               "normal_outer_slope": [
                 "minecraft:forest",
+                "minecraft:forest",
                 "biomesoplenty:lavender_forest",
-                "minecraft:forest"
+                "biomeswevegone:white_mangrove_marshes",
+                "biomeswevegone:white_mangrove_marshes",
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "minecraft:forest",
@@ -17468,8 +17482,11 @@
               ],
               "normal_inner_slope": [
                 "minecraft:forest",
+                "minecraft:forest",
                 "biomesoplenty:lavender_forest",
-                "minecraft:forest"
+                "biomeswevegone:white_mangrove_marshes",
+                "biomeswevegone:white_mangrove_marshes",
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "natures_spirit:marsh",
@@ -17489,8 +17506,11 @@
               ],
               "variant_inner_slope": [
                 "minecraft:plains",
+                "minecraft:plains",
                 "biomesoplenty:lavender_field",
-                "minecraft:plains"
+                "biomeswevegone:white_mangrove_marshes",
+                "biomeswevegone:white_mangrove_marshes",
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "minecraft:plains",
@@ -17499,8 +17519,11 @@
               ],
               "variant_outer_slope": [
                 "minecraft:plains",
+                "minecraft:plains",
                 "biomesoplenty:lavender_field",
-                "minecraft:plains"
+                "biomeswevegone:white_mangrove_marshes",
+                "biomeswevegone:white_mangrove_marshes",
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "natures_spirit:marsh",
@@ -17636,13 +17659,13 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "shattered:sand_sea"
               ],
               "normal_inner_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -17657,13 +17680,13 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "shattered:sand_sea"
               ],
               "variant_outer_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -17678,7 +17701,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "normal_outer_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_peak": [
@@ -17686,7 +17709,7 @@
                 "shattered:lush_desert"
               ],
               "normal_inner_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_inner_valley": [
@@ -17706,7 +17729,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "variant_inner_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "atmospheric:dunes"
               ],
               "variant_peak": [
@@ -17714,7 +17737,7 @@
                 "atmospheric:dunes"
               ],
               "variant_outer_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "atmospheric:dunes"
               ],
               "variant_outer_valley": [
@@ -17732,7 +17755,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "normal_outer_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_peak": [
@@ -17740,7 +17763,7 @@
                 "shattered:lush_desert"
               ],
               "normal_inner_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_inner_valley": [
@@ -17760,7 +17783,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "variant_inner_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "regions_unexplored:joshua_desert"
               ],
               "variant_peak": [
@@ -17768,7 +17791,7 @@
                 "regions_unexplored:joshua_desert"
               ],
               "variant_outer_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "regions_unexplored:joshua_desert"
               ],
               "variant_outer_valley": [
@@ -17787,15 +17810,15 @@
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp",
@@ -17815,15 +17838,15 @@
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp",
@@ -18760,7 +18783,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -19995,7 +20019,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -21307,7 +21332,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -22706,7 +22732,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -24130,7 +24157,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -24340,51 +24368,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -25367,7 +25395,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -25577,51 +25606,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -25760,15 +25789,15 @@
               ],
               "variant_inner_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_peak": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_valley": [
                 "natures_spirit:tundra"
@@ -26506,9 +26535,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "minecraft:savanna",
@@ -26516,9 +26543,7 @@
                 "natures_spirit:cedar_thicket"
               ],
               "normal_inner_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -26533,9 +26558,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "minecraft:savanna",
@@ -26543,9 +26566,7 @@
                 "natures_spirit:cedar_thicket"
               ],
               "variant_outer_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -26559,9 +26580,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "natures_spirit:xeric_plains",
-                "regions_unexplored:magnolia_woodland",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "natures_spirit:xeric_plains",
@@ -26569,9 +26588,7 @@
                 "biomesoplenty:old_growth_dead_forest"
               ],
               "normal_inner_slope": [
-                "natures_spirit:xeric_plains",
-                "regions_unexplored:magnolia_woodland",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -26586,9 +26603,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "minecraft:savanna",
@@ -26596,9 +26611,7 @@
                 "biomesoplenty:old_growth_dead_forest"
               ],
               "variant_outer_slope": [
-                "minecraft:savanna",
-                "regions_unexplored:magnolia_woodland",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -26612,9 +26625,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "minecraft:forest",
-                "biomesoplenty:lavender_forest",
-                "regions_unexplored:bamboo_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "minecraft:forest",
@@ -26622,9 +26633,7 @@
                 "regions_unexplored:bamboo_forest"
               ],
               "normal_inner_slope": [
-                "minecraft:forest",
-                "biomesoplenty:lavender_forest",
-                "regions_unexplored:bamboo_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -26639,9 +26648,7 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "minecraft:plains",
-                "biomesoplenty:lavender_field",
-                "regions_unexplored:bamboo_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "minecraft:plains",
@@ -26649,9 +26656,7 @@
                 "regions_unexplored:bamboo_forest"
               ],
               "variant_outer_slope": [
-                "minecraft:plains",
-                "biomesoplenty:lavender_field",
-                "regions_unexplored:bamboo_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -26785,13 +26790,13 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "shattered:sand_sea"
               ],
               "normal_inner_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -26806,13 +26811,13 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "shattered:sand_sea"
               ],
               "variant_outer_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -26827,7 +26832,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "normal_outer_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_peak": [
@@ -26835,7 +26840,7 @@
                 "shattered:lush_desert"
               ],
               "normal_inner_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_inner_valley": [
@@ -26855,7 +26860,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "variant_inner_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "atmospheric:dunes"
               ],
               "variant_peak": [
@@ -26863,7 +26868,7 @@
                 "atmospheric:dunes"
               ],
               "variant_outer_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "atmospheric:dunes"
               ],
               "variant_outer_valley": [
@@ -26881,7 +26886,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "normal_outer_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_peak": [
@@ -26889,7 +26894,7 @@
                 "shattered:lush_desert"
               ],
               "normal_inner_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_inner_valley": [
@@ -26909,7 +26914,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "variant_inner_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "regions_unexplored:joshua_desert"
               ],
               "variant_peak": [
@@ -26917,7 +26922,7 @@
                 "regions_unexplored:joshua_desert"
               ],
               "variant_outer_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "regions_unexplored:joshua_desert"
               ],
               "variant_outer_valley": [
@@ -26936,15 +26941,15 @@
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp",
@@ -26964,15 +26969,15 @@
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp",
@@ -27911,7 +27916,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -29124,7 +29130,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -30405,7 +30412,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -31733,7 +31741,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -33126,7 +33135,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -33336,51 +33346,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -34326,7 +34336,8 @@
               ],
               "river_override": [
                 "minecraft:river",
-                "regions_unexplored:muddy_river"
+                "regions_unexplored:muddy_river",
+                "natures_spirit:tropical_basin"
               ]
             },
             "humid": {
@@ -34536,51 +34547,51 @@
             "wet": {
               "normal_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_river_bank": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "river_override": [
                 "minecraft:river",
@@ -34719,15 +34730,15 @@
               ],
               "variant_inner_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_peak": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_slope": [
                 "regions_unexplored:spires",
-                "natures_spirit:boreal_taiga"
+                "natures_spirit:tundra"
               ],
               "variant_outer_valley": [
                 "natures_spirit:tundra"
@@ -35465,16 +35476,14 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "minecraft:savanna",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "minecraft:savanna",
                 "natures_spirit:cedar_thicket"
               ],
               "normal_inner_slope": [
-                "minecraft:savanna",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -35489,16 +35498,14 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "minecraft:savanna",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "minecraft:savanna",
                 "natures_spirit:cedar_thicket"
               ],
               "variant_outer_slope": [
-                "minecraft:savanna",
-                "natures_spirit:cedar_thicket"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -35512,16 +35519,14 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "natures_spirit:xeric_plains",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "natures_spirit:xeric_plains",
                 "biomesoplenty:old_growth_dead_forest"
               ],
               "normal_inner_slope": [
-                "natures_spirit:xeric_plains",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -35536,16 +35541,14 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "natures_spirit:xeric_plains",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "natures_spirit:xeric_plains",
                 "biomesoplenty:old_growth_dead_forest"
               ],
               "variant_outer_slope": [
-                "natures_spirit:xeric_plains",
-                "biomesoplenty:old_growth_dead_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -35559,16 +35562,14 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "minecraft:forest",
-                "biomesoplenty:lavender_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "minecraft:forest",
                 "biomesoplenty:lavender_forest"
               ],
               "normal_inner_slope": [
-                "minecraft:forest",
-                "biomesoplenty:lavender_forest"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -35583,16 +35584,14 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "minecraft:plains",
-                "biomesoplenty:lavender_field"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "minecraft:plains",
                 "biomesoplenty:lavender_field"
               ],
               "variant_outer_slope": [
-                "minecraft:plains",
-                "biomesoplenty:lavender_field"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -35727,13 +35726,13 @@
                 "minecraft:mangrove_swamp"
               ],
               "normal_outer_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_peak": [
                 "shattered:sand_sea"
               ],
               "normal_inner_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp"
@@ -35748,13 +35747,13 @@
                 "minecraft:mangrove_swamp"
               ],
               "variant_inner_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_peak": [
                 "shattered:sand_sea"
               ],
               "variant_outer_slope": [
-                "shattered:sand_sea"
+                "biomeswevegone:white_mangrove_marshes"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp"
@@ -35769,7 +35768,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "normal_outer_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_peak": [
@@ -35777,7 +35776,7 @@
                 "shattered:lush_desert"
               ],
               "normal_inner_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_inner_valley": [
@@ -35797,7 +35796,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "variant_inner_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "atmospheric:dunes"
               ],
               "variant_peak": [
@@ -35805,7 +35804,7 @@
                 "atmospheric:dunes"
               ],
               "variant_outer_slope": [
-                "shattered:sand_sea",
+                "biomeswevegone:white_mangrove_marshes",
                 "atmospheric:dunes"
               ],
               "variant_outer_valley": [
@@ -35823,7 +35822,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "normal_outer_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_peak": [
@@ -35831,7 +35830,7 @@
                 "shattered:lush_desert"
               ],
               "normal_inner_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "shattered:lush_desert"
               ],
               "normal_inner_valley": [
@@ -35851,7 +35850,7 @@
                 "biomesoplenty:fungal_jungle"
               ],
               "variant_inner_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "regions_unexplored:joshua_desert"
               ],
               "variant_peak": [
@@ -35859,7 +35858,7 @@
                 "regions_unexplored:joshua_desert"
               ],
               "variant_outer_slope": [
-                "atmospheric:flourishing_dunes",
+                "biomeswevegone:white_mangrove_marshes",
                 "regions_unexplored:joshua_desert"
               ],
               "variant_outer_valley": [
@@ -35878,15 +35877,15 @@
               ],
               "normal_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "normal_inner_valley": [
                 "minecraft:mangrove_swamp",
@@ -35906,15 +35905,15 @@
               ],
               "variant_inner_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_peak": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_slope": [
                 "atmospheric:spiny_thicket",
-                "natures_spirit:scorched_dunes"
+                "shattered:outback"
               ],
               "variant_outer_valley": [
                 "minecraft:mangrove_swamp",

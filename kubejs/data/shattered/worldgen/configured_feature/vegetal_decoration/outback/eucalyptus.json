@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": {
+      "feature": "regions_unexplored:eucalyptus_tree",
+      "placement": []
+    },
+    "features": [
+      {
+        "chance": 0.5,
+        "feature": {
+          "feature": "biomeswevegone:rainbow_eucalyptus_tree1",
+          "placement": []
+        }
+      }
+    ]
+  }
+}

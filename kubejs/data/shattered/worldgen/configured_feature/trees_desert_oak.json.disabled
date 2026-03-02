@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": {
+      "feature": "shatteredcore:desert_oak"
+    },
+    "features": []
+  }
+}

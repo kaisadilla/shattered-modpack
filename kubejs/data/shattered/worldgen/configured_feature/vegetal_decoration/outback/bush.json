@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": {
+      "feature": "shattered:bush/acacia/bush1",
+      "placement": []
+    },
+    "features": []
+  }
+}

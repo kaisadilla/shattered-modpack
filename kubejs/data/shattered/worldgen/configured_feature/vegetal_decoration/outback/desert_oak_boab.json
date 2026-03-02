@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": {
+      "feature": "shatteredcore:growable/desert_oak",
+      "placement": []
+    },
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": {
+          "feature": "biomeswevegone:baobab_trees",
+          "placement": []
+        }
+      }
+    ]
+  }
+}

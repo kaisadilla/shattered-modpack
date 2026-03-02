@@ -31,7 +31,7 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
-gamma:0.5
+gamma:0.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/rainbows-foliage-polytone-edition-v1.6.zip","file/Slightly-Improved-Font-1.1.5.zip","file/Midnighttiggers-FCT-Default_1.20_V8.zip","file/FreshAnimations_v1.10.3.zip","Moonlight Mods Dynamic Assets","sullysmod:mob_retextures"]
+resourcePacks:["vanilla","mod_resources","file/rainbows-foliage-polytone-edition-v1.6.zip","file/Slightly-Improved-Font-1.1.5.zip","file/Midnighttiggers-FCT-Default_1.20_V8.zip","file/FreshAnimations_v1.10.3.zip","Moonlight Mods Dynamic Assets","sullysmod:mob_retextures","file/Diagonal Rails.zip"]
 incompatibleResourcePacks:["file/rainbows-foliage-polytone-edition-v1.6.zip","file/Slightly-Improved-Font-1.1.5.zip","file/Midnighttiggers-FCT-Default_1.20_V8.zip"]
 lastServer:
 lang:en_us
@@ -131,8 +131,8 @@ key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.modernfix.config:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.reload:key.keyboard.r:CONTROL
+key_iris.keybind.toggleShaders:key.keyboard.k:CONTROL
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.lighty.enable:key.keyboard.f7
 key_key.lighty.toggle:key.keyboard.f8

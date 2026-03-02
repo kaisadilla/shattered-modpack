@@ -81,6 +81,13 @@
     "curseForgeHash": 3717034118,
     "modrinthHash": "515905f87268f1eb5af2a9878a84914517efe552"
   },
+  "better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar": {
+    "jarName": "better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar",
+    "modId": "betterclouds",
+    "version": "1.3.37-beta+1.20.1-forge.rev.e63efe2",
+    "curseForgeHash": 3790282095,
+    "modrinthHash": "5970c3134b95963c467c2dd76664ff02224140b6"
+  },
   "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar": {
     "jarName": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
     "modId": "betteradvancements",
@@ -179,6 +186,20 @@
     "curseForgeHash": 1243520454,
     "modrinthHash": "97cc669f68dbe812cb77cc3631339334fc28b877"
   },
+  "coolrain-1.20.1-Forge-1.0.3.jar": {
+    "jarName": "coolrain-1.20.1-Forge-1.0.3.jar",
+    "modId": "coolrain",
+    "version": "1.0.3",
+    "curseForgeHash": 458517974,
+    "modrinthHash": "796410e3954a39a458bc89228a62ae2463a0ba57"
+  },
+  "Corgilib-Forge-1.20.1-4.0.3.4.jar": {
+    "jarName": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+    "modId": "corgilib",
+    "version": "4.0.3.4",
+    "curseForgeHash": 3208777550,
+    "modrinthHash": "4b08e5f8f2580842eacd5388458a0b52411a9fb2"
+  },
   "coroutil-forge-1.20.1-1.3.7.jar": {
     "jarName": "coroutil-forge-1.20.1-1.3.7.jar",
     "modId": "coroutil",
@@ -214,6 +235,20 @@
     "curseForgeHash": 1288931317,
     "modrinthHash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
   },
+  "cyanide-forge-1.20.1-4.1.1.jar": {
+    "jarName": "cyanide-forge-1.20.1-4.1.1.jar",
+    "modId": "cyanide",
+    "version": "4.1.1",
+    "curseForgeHash": 2809364236,
+    "modrinthHash": "e2db7885a23f32c816ba8fb7db904fe68099ce09"
+  },
+  "Drip Sounds-0.5.2+1.20.4-Forge.jar": {
+    "jarName": "Drip Sounds-0.5.2+1.20.4-Forge.jar",
+    "modId": "waterdripsound",
+    "version": "0.5.2",
+    "curseForgeHash": 1606905691,
+    "modrinthHash": "c6b00675129667e15357f4a3457163a715915eb6"
+  },
   "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar": {
     "jarName": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
     "modId": "dynamic_fps",
@@ -227,6 +262,13 @@
     "version": "2.2.4",
     "curseForgeHash": 15728353,
     "modrinthHash": "5f245e903af1d92fd8f34c921620e1eaf0d4a02c"
+  },
+  "effectual-forge-1.3.1-1.20.1.jar": {
+    "jarName": "effectual-forge-1.3.1-1.20.1.jar",
+    "modId": "effectual",
+    "version": "1.3.1-1.20.1",
+    "curseForgeHash": 688475118,
+    "modrinthHash": "21cfeb6da53ac4270c48b3d7bd09f2a2b855d0be"
   },
   "embeddium-0.3.31+mc1.20.1.jar": {
     "jarName": "embeddium-0.3.31+mc1.20.1.jar",
@@ -325,6 +367,13 @@
     "version": "1.2.12",
     "curseForgeHash": 1574254045,
     "modrinthHash": "ec5c8a552493297842543140fed1b0a327c217f4"
+  },
+  "geckolib-forge-1.20.1-4.8.3.jar": {
+    "jarName": "geckolib-forge-1.20.1-4.8.3.jar",
+    "modId": "geckolib",
+    "version": "4.8.3",
+    "curseForgeHash": 4092514766,
+    "modrinthHash": "5428765c6c2e2135da6ee01f2f0478fa0db6aee7"
   },
   "Highlighter-1.20.1-forge-1.1.9.jar": {
     "jarName": "Highlighter-1.20.1-forge-1.1.9.jar",
@@ -520,6 +569,20 @@
     "curseForgeHash": 516527841,
     "modrinthHash": "984f774e71790deaec674c7587bd24e0711871b2"
   },
+  "Oh-The-Biomes-Weve-Gone-Forge-1.7.4.jar": {
+    "jarName": "Oh-The-Biomes-Weve-Gone-Forge-1.7.4.jar",
+    "modId": "biomeswevegone",
+    "version": "1.7.4",
+    "curseForgeHash": 3226300198,
+    "modrinthHash": "168e2c7f7105bc578e05f0a347856438b5d9f4a6"
+  },
+  "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar": {
+    "jarName": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.5.0.jar",
+    "modId": "ohthetreesyoullgrow",
+    "version": "1.5.0",
+    "curseForgeHash": 3491630147,
+    "modrinthHash": "d3d37fdba1a4fb69df9680c21fc2480cc2555d38"
+  },
   "particlerain-4.0.0-beta.5+1.20.1-forge.jar": {
     "jarName": "particlerain-4.0.0-beta.5+1.20.1-forge.jar",
     "modId": "particlerain",
@@ -597,6 +660,13 @@
     "curseForgeHash": 3325660152,
     "modrinthHash": "c8f154b0b03dde15c5e901fc7c0c7c701466211d"
   },
+  "shatteredcore-0.1.0.jar": {
+    "jarName": "shatteredcore-0.1.0.jar",
+    "modId": "shatteredcore",
+    "version": "0.1.0",
+    "curseForgeHash": 1519122001,
+    "modrinthHash": "fe67ee019347ca7f440158997f1937f09f31f1f6"
+  },
   "smoothswapping-0.9.3.2-1.20.1-forge.jar": {
     "jarName": "smoothswapping-0.9.3.2-1.20.1-forge.jar",
     "modId": "smoothswapping",
@@ -617,6 +687,13 @@
     "version": "1.20.1-1.5.1",
     "curseForgeHash": 3096934868,
     "modrinthHash": "aef2c02392624f0a12475ada809366b12ac9ec52"
+  },
+  "spark-1.10.53-forge.jar": {
+    "jarName": "spark-1.10.53-forge.jar",
+    "modId": "spark",
+    "version": "1.10.53",
+    "curseForgeHash": 1515254383,
+    "modrinthHash": "231fb325368c0660954f47bfb03493f5246fa4d1"
   },
   "suggestion-tweaker-1.20-1.5.2-forge.jar": {
     "jarName": "suggestion-tweaker-1.20-1.5.2-forge.jar",
@@ -652,6 +729,13 @@
     "version": "3.0.1.10",
     "curseForgeHash": 921691151,
     "modrinthHash": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc"
+  },
+  "tlib-forge-1.4.1-1.20.1.jar": {
+    "jarName": "tlib-forge-1.4.1-1.20.1.jar",
+    "modId": "tlib",
+    "version": "1.4.1-1.20.1",
+    "curseForgeHash": 1918736889,
+    "modrinthHash": "6fbe927290d62e203c8129922158340f8ad79b18"
   },
   "Twigs-1.20.1-3.1.0.jar": {
     "jarName": "Twigs-1.20.1-3.1.0.jar",
@@ -701,6 +785,13 @@
     "version": "2.3.1-build.6+mc1.20.1",
     "curseForgeHash": 1963019301,
     "modrinthHash": "6efdaf5d213f779e51aa84631a5f06a306351e75"
+  },
+  "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar": {
+    "jarName": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+    "modId": "yet_another_config_lib_v3",
+    "version": "3.6.6+1.20.1-forge",
+    "curseForgeHash": 2226879195,
+    "modrinthHash": "644731e321c53a35a0b3177a3cc6347fe38002f4"
   },
   "YungsApi-1.20-Forge-4.0.6.jar": {
     "jarName": "YungsApi-1.20-Forge-4.0.6.jar",

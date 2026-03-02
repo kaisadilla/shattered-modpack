@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": {
+      "feature": "biomeswevegone:tree/rainbow_eucalyptus/normal1",
+      "placement": []
+    },
+    "features": [
+      {
+        "chance": 0.1667,
+        "feature": {
+          "feature": "biomeswevegone:tree/rainbow_eucalyptus/normal2",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.1667,
+        "feature": {
+          "feature": "biomeswevegone:tree/rainbow_eucalyptus/normal3",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.1667,
+        "feature": {
+          "feature": "biomeswevegone:tree/rainbow_eucalyptus/normal4",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.1667,
+        "feature": {
+          "feature": "biomeswevegone:tree/rainbow_eucalyptus/normal5",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.1667,
+        "feature": {
+          "feature": "biomeswevegone:tree/rainbow_eucalyptus/normal6",
+          "placement": []
+        }
+      }
+    ]
+  }
+}

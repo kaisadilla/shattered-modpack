@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "shattered:checked/larch",
+    "features": [
+      {
+        "chance": 0.6,
+        "feature": "natures_spirit:fir_checked"
+      },
+      {
+        "chance": 0.2,
+        "feature": "minecraft:spruce_checked"
+      }
+    ]
+  }
+}

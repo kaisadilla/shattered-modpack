@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "shattered:block/red_sandy_soil_rocky"
+  }
+}

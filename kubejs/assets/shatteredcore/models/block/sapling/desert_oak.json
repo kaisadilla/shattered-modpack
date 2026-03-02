@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "biomesoplenty:block/redwood_sapling"
+    },
+    "render_type": "cutout"
+}
