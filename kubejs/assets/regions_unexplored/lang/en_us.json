@@ -1,6 +1,7 @@
 {
   "biome.regions_unexplored.alpha_grove": "[REMOVED] biome.regions_unexplored.alpha_grove",
   "biome.regions_unexplored.arid_mountains": "[REMOVED] biome.regions_unexplored.arid_mountains",
+  "biome.regions_unexplored.ashen_woodland": "Charred forest",
   "biome.regions_unexplored.autumnal_maple_forest": "Maple forest",
   "biome.regions_unexplored.bamboo_forest": "Bamboo forest",
   "biome.regions_unexplored.baobab_savanna": "Baobab savanna",
@@ -36,7 +37,7 @@
   "biome.regions_unexplored.mountains": "Mountains",
   "biome.regions_unexplored.muddy_river": "Muddy river",
   "biome.regions_unexplored.old_growth_bayou": "Old-growth bayou",
-  "biome.regions_unexplored.orchard": "Orchard",
+  "biome.regions_unexplored.orchard": "Woods",
   "biome.regions_unexplored.outback": "[REMOVED] biome.regions_unexplored.outback",
   "biome.regions_unexplored.pine_slopes": "Pine sloves",
   "biome.regions_unexplored.pine_taiga": "Pine forest",
