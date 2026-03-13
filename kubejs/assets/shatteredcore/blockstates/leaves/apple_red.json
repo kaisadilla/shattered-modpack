@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "maturity=dormant": {
+            "model": "shatteredcore:block/leaves/apple_dormant"
+        },
+        "maturity=flowering": {
+            "model": "shatteredcore:block/leaves/apple_flowering"
+        },
+        "maturity=mature": {
+            "model": "shatteredcore:block/leaves/apple_mature_red"
+        }
+    }
+}

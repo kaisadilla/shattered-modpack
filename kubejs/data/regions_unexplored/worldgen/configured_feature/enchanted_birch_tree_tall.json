@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": {
+      "feature": "shattered:tree/silver_birch",
+      "placement": []
+    },
+    "features": [
+    ]
+  }
+}

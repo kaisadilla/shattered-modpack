@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "shattered:checked/tree/spruce_tall",
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": "shattered:checked/tree/zelkova"
+      }
+    ]
+  }
+}

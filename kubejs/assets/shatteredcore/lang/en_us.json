@@ -1,4 +1,8 @@
 {
   "block.shatteredcore.red_sandy_soil": "Red sandy soil",
+  "block.shatteredcore.leaves.apple_red": "Red apple leaves",
+  "block.shatteredcore.leaves.apple_green": "Green apple leaves",
+  "block.shatteredcore.sapling.apple_green": "Green apple sapling",
+  "block.shatteredcore.sapling.apple_red": "Red apple sapling",
   "block.shatteredcore.sapling.desert_oak": "Desert oak sapling"
 }

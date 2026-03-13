@@ -17,18 +17,18 @@
 	#If set to true, the 'Allowed Screens' option will work as a Blacklist rather than a Whitelist. WARNING: Use at your own risk as some mods may not support this.
 	"Use Screen List Blacklist" = false
 	#If 'true' and TerraBlender is present, Quark will add a TerraBlender region. The region will contain vanilla biomes and the Glimmering Weald.
-	"Terrablender Add Region" = true
+	"Terrablender Add Region" = false
 	#Quark will set this weight for its TerraBlender region.
 	"Terrablender Region Weight" = 1
 	#If 'true', Quark will modify the `minecraft:overworld` MultiNoiseBiomeSourceParameterList preset, even when Terrablender is installed.
 	#This will have various knock-on effects but might make the Weald more common, or appear closer to modded biomes. Who knows?
 	"Terrablender Modify Vanilla Anyway" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not generate the Quark Programmer Art resource pack
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 
 	[general.chest_button_offsets]
 		"Player X" = 0
@@ -58,9 +58,9 @@
 	"Ender Watcher" = true
 	"Feeding Trough" = true
 	Gravisand = true
-	"Iron Rod" = true
+	"Iron Rod" = false
 	"Metal Buttons" = true
-	"Obsidian Plate" = true
+	"Obsidian Plate" = false
 	"Pistons Move Tile Entities" = true
 	"Redstone Randomizer" = true
 
@@ -108,38 +108,38 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 [building]
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 	"Compressed Blocks" = true
 	"Duskbound Blocks" = true
 	"Framed Glass" = true
 	"Glass Item Frame" = true
 	"Gold Bars" = true
 	Grate = true
-	Hedges = true
+	Hedges = false
 	"Hollow Logs" = true
 	"Industrial Palette" = true
 	"Japanese Palette" = true
 	"Leaf Carpet" = true
 	Midori = true
-	"More Brick Types" = true
+	"More Brick Types" = false
 	"More Mud Blocks" = true
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
-	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = true
+	"Rainbow Lamps" = false
+	"Raw Metal Bricks" = false
 	Rope = true
 	"Shear Vines" = true
 	Shingles = true
-	"Soul Sandstone" = true
+	"Soul Sandstone" = false
 	Stools = true
 	"Sturdy Stone" = true
-	Thatch = true
+	Thatch = false
 	"Variant Bookshelves" = true
 	"Variant Chests" = true
-	"Variant Furnaces" = true
-	"Variant Ladders" = true
+	"Variant Furnaces" = false
+	"Variant Ladders" = false
 	"Vertical Planks" = true
-	"Vertical Slabs" = true
+	"Vertical Slabs" = false
 	"Wooden Posts" = true
 	"More Stone Variants" = true
 
@@ -154,9 +154,9 @@
 		"Blaze Lantern Fuel Time" = 24000
 		#Allowed values: [0,)
 		"Stick Block Fuel Time" = 900
-		"Enable Charcoal Block" = true
+		"Enable Charcoal Block" = false
 		"Enable Sugar Cane Block" = true
-		"Enable Cactus Block" = true
+		"Enable Cactus Block" = false
 		"Enable Chorus Fruit Block" = true
 		"Enable Stick Block" = true
 		"Enable Apple Crate" = true
@@ -285,7 +285,7 @@
 	"Automatic Tool Restock" = true
 	"Easy Transfering" = true
 	"Expanded Item Interactions" = true
-	"Hotbar Changer" = true
+	"Hotbar Changer" = false
 	"Inventory Sorting" = true
 	"Item Sharing" = true
 	"Quick Armor Swapping" = true
@@ -313,9 +313,9 @@
 
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
-		"Enable Shulker Box Interaction" = true
-		"Enable Lava Interaction" = true
-		"Allow Opening Shulker Boxes" = true
+		"Enable Shulker Box Interaction" = false
+		"Enable Lava Interaction" = false
+		"Allow Opening Shulker Boxes" = false
 		"Allow Rotating Bundles" = true
 
 	[management.hotbar_changer]
@@ -340,7 +340,7 @@
 [tools]
 	Abacus = true
 	"Ambient Discs" = true
-	"Ancient Tomes" = true
+	"Ancient Tomes" = false
 	"Beacon Redirection" = true
 	"Bottled Cloud" = true
 	"Color Runes" = true
@@ -348,7 +348,7 @@
 	"Parrot Eggs" = true
 	"Pathfinder Maps" = true
 	Pickarang = true
-	"Seed Pouch" = true
+	"Seed Pouch" = false
 	"Skull Pikes" = true
 	"Slime In A Bucket" = true
 	"Torch Arrow" = true
@@ -512,20 +512,20 @@
 
 [tweaks]
 	"Armed Armor Stands" = true
-	"Automatic Recipe Unlock" = true
-	"Better Elytra Rocket" = true
-	"Campfires Boost Elytra" = true
+	"Automatic Recipe Unlock" = false
+	"Better Elytra Rocket" = false
+	"Campfires Boost Elytra" = false
 	"Compasses Work Everywhere" = true
 	"Coral On Cactus" = true
 	"Diamond Repair" = true
 	"Double Door Opening" = true
-	"Dragon Scales" = true
+	"Dragon Scales" = false
 	"Dyeable Item Frames" = true
 	Emotes = true
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
-	"Gold Tools Have Fortune" = true
-	"Grab Chickens" = true
+	"Gold Tools Have Fortune" = false
+	"Grab Chickens" = false
 	"Hoe Harvesting" = true
 	"Horses Swim" = true
 	"Improved Sponges" = true
@@ -538,8 +538,8 @@
 	"No Durability On Cosmetics" = true
 	"Pat The Dogs" = true
 	"Petals On Water" = true
-	"Pig Litters" = true
-	"Poison Potato Usage" = true
+	"Pig Litters" = false
+	"Poison Potato Usage" = false
 	"Reacharound Placing" = true
 	"Renewable Spore Blossoms" = true
 	"Replace Scaffolding" = true
@@ -548,10 +548,10 @@
 	"Simple Harvest" = true
 	"Slabs To Blocks" = true
 	"Slimes To Magma Cubes" = true
-	"Snow Golem Player Heads" = true
-	"Utility Recipes" = true
+	"Snow Golem Player Heads" = false
+	"Utility Recipes" = false
 	"Vexes Die With Their Masters" = true
-	"Villagers Follow Emeralds" = true
+	"Villagers Follow Emeralds" = false
 	"Zombie Villagers On Normal" = true
 
 	[tweaks.automatic_recipe_unlock]
@@ -778,8 +778,8 @@
 	"Monster Box" = true
 	"Nether Obsidian Spikes" = true
 	"New Stone Types" = true
-	"No More Lava Pockets" = true
-	Permafrost = true
+	"No More Lava Pockets" = false
+	Permafrost = false
 	"Spiral Spires" = true
 
 	[world.ancient_wood]
@@ -973,7 +973,7 @@
 
 			[world.blossom_trees.blue.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.blossom_trees.blue.biome_config]
 
@@ -992,7 +992,7 @@
 
 			[world.blossom_trees.lavender.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.blossom_trees.lavender.biome_config]
 
@@ -1011,7 +1011,7 @@
 
 			[world.blossom_trees.orange.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.blossom_trees.orange.biome_config]
 
@@ -1030,7 +1030,7 @@
 
 			[world.blossom_trees.yellow.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.blossom_trees.yellow.biome_config]
 
@@ -1049,7 +1049,7 @@
 
 			[world.blossom_trees.red.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.blossom_trees.red.biome_config]
 
@@ -1149,7 +1149,7 @@
 		"Max Y" = 0
 		"Min Mob Count" = 5
 		"Max Mob Count" = 8
-		"Enable Extra Loot Table" = true
+		"Enable Extra Loot Table" = false
 		"Activation Range" = 2.5
 		#How many blocks to search vertically from a position before trying to place a block. Higher means you'll get more boxes in open spaces.
 		"Search Range" = 15
@@ -1557,15 +1557,15 @@
 	"Buckets Show Inhabitants" = true
 	Camera = true
 	"Chest Searching" = true
-	"Elytra Indicator" = true
-	"Greener Grass" = true
+	"Elytra Indicator" = false
+	"Greener Grass" = false
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
-	"Microcrafting Helper" = true
+	"Microcrafting Helper" = false
 	"Soul Candles" = true
 	"Usage Ticker" = true
-	"Uses For Curses" = true
-	"Variant Animal Textures" = true
+	"Uses For Curses" = false
+	"Variant Animal Textures" = false
 	"Wool Shuts Up Minecarts" = true
 
 	[client.auto_walk_keybind]
@@ -1652,16 +1652,16 @@
 		"Enable Cow" = true
 		"Enable Pig" = true
 		"Enable Chicken" = true
-		"Enable Shiny Rabbit" = true
-		"Enable Shiny Llama" = true
-		"Enable Shiny Dolphin" = true
-		"Enable Shiny Slime" = true
-		"Enable L G B T Bees" = true
+		"Enable Shiny Rabbit" = false
+		"Enable Shiny Llama" = false
+		"Enable Shiny Dolphin" = false
+		"Enable Shiny Slime" = false
+		"Enable L G B T Bees" = false
 		"Every Bee Is L G B T" = false
 		#The chance for an animal to have a special "Shiny" skin, like a shiny pokemon. This is 1 in X. Set to 0 to disable.
 		"Shiny Animal Chance" = 2048
 		#If a shiny animal should emit occasional sparkles.
-		"Shiny Sparkles" = true
+		"Shiny Sparkles" = false
 
 [experimental]
 	"Adjustable Chat" = false

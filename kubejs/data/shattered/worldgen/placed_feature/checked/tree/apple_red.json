@@ -1,0 +1,17 @@
+{
+  "feature": "shatteredcore:growable/apple_red",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "shatteredcore:sapling/apple_red",
+          "Properties": {
+            "stage": "0"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -79,8 +79,8 @@
       "regions_unexplored:mega_baobab_tree",
       "regions_unexplored:ultra_baobab_tree",
       "atmospheric:patch_agave_large",
-      "shattered:spiny_thicket_alluaudia",
-      "shattered:spiny_thicket_mahogany"
+      "shattered:vegetation/spiny_thicket/alluaudia",
+      "shattered:vegetation/spiny_thicket/mahogany"
     ],
     [
       "minecraft:freeze_top_layer"

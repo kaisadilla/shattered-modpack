@@ -26,7 +26,7 @@
 	desert_toggle = false
 	badlands_toggle = false
 	mountain_biomes_toggle = true
-	savanna_toggle = false
+	savanna_toggle = true
 	dark_forest_toggle = true
 	windswept_hills_toggle = true
 

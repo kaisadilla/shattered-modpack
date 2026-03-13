@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/rainbows-foliage-polytone-edition-v1.6.zip","file/Slightly-Improved-Font-1.1.5.zip","file/Midnighttiggers-FCT-Default_1.20_V8.zip","file/FreshAnimations_v1.10.3.zip","Moonlight Mods Dynamic Assets","sullysmod:mob_retextures","file/Diagonal Rails.zip"]
+resourcePacks:["vanilla","mod_resources","file/rainbows-foliage-polytone-edition-v1.6.zip","file/Slightly-Improved-Font-1.1.5.zip","file/Midnighttiggers-FCT-Default_1.20_V8.zip","file/FreshAnimations_v1.10.3.zip","Moonlight Mods Dynamic Assets","file/VanillaTweaks_r640083_MC1.20.x.zip","sullysmod:mob_retextures","file/shattered-trees","file/rainbows-foliage-patch"]
 incompatibleResourcePacks:["file/rainbows-foliage-polytone-edition-v1.6.zip","file/Slightly-Improved-Font-1.1.5.zip","file/Midnighttiggers-FCT-Default_1.20_V8.zip"]
 lastServer:
 lang:en_us
@@ -73,10 +73,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -200,7 +200,7 @@ key_quark.keybind.variant_selector:key.keyboard.r
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.observable.profile:key.keyboard.unknown
-soundCategory_master:1.0
+soundCategory_master:0.30960264900662254
 soundCategory_music:0.1056338028169014
 soundCategory_record:1.0
 soundCategory_weather:1.0

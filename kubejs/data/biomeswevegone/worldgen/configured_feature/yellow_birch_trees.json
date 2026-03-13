@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": {
+      "feature": "shattered:tree/autumnal_birch",
+      "placement": []
+    },
+    "features": [
+    ]
+  }
+}

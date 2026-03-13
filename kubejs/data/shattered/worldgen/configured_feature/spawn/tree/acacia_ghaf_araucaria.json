@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "minecraft:acacia_checked",
+    "features": [
+      {
+        "chance": 0.35,
+        "feature": "shattered:checked/tree/ghaf"
+      },
+      {
+        "chance": 0.075,
+        "feature": "shattered:checked/tree/araucaria"
+      }
+    ]
+  }
+}

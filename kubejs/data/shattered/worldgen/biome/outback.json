@@ -92,11 +92,11 @@
       "natures_spirit:patch_grass_scorched_dunes",
       "natures_spirit:patch_scorched_grass_placed",
       "minecraft:patch_dead_bush_2",
-      "shattered:vegetal_decoration/outback/acacia",
-      "shattered:vegetal_decoration/outback/bush",
-      "shattered:vegetal_decoration/outback/desert_oak",
-      "shattered:vegetal_decoration/outback/eucalyptus",
-      "shattered:vegetal_decoration/outback/golden_wattle"
+      "shattered:vegetation/outback/acacia",
+      "shattered:vegetation/outback/bush",
+      "shattered:vegetation/outback/desert_oak",
+      "shattered:vegetation/outback/eucalyptus",
+      "shattered:vegetation/outback/golden_wattle"
     ],
     [
       "minecraft:freeze_top_layer"

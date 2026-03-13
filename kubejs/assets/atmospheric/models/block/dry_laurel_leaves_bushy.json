@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_leaves",
-  "textures": {
-    "all": "atmospheric:block/dry_laurel_leaves",
-    "bushy": "atmospheric:block/dry_laurel_leaves_bushy"
-  }
-}

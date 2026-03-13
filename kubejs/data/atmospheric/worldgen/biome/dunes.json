@@ -79,8 +79,8 @@
       "atmospheric:patch_arid_sprouts",
       "atmospheric:patch_aloe_vera",
       "atmospheric:patch_barrel_cactus_dunes",
-      "shattered:xeric_desert_saxaul",
-      "shattered:xeric_desert_palm_ghaf"
+      "shattered:vegetation/xeric_desert/saxaul",
+      "shattered:vegetation/xeric_desert/palm_ghaf"
     ],
     [
       "minecraft:freeze_top_layer"

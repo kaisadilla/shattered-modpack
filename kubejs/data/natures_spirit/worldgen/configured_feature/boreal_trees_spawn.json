@@ -1,7 +1,7 @@
 {
   "type": "minecraft:random_selector",
   "config": {
-    "default": "shattered:checked/larch",
+    "default": "shattered:checked/tree/larch",
     "features": [
       {
         "chance": 0.6,

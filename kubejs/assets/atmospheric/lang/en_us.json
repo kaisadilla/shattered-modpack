@@ -39,8 +39,11 @@
   "block.atmospheric.morado_wall_sign": "Ironwood wall sign",
   "block.atmospheric.morado_wood": "Ironwood wood",
   "block.atmospheric.potted_morado_sapling": "Potted ironwood sapling",
+  "block.atmospheric.roasted_yucca_bundle": "Roasted date bundle",
   "block.atmospheric.stripped_morado_log": "Stripped ironwood log",
   "block.atmospheric.stripped_morado_wood": "Stripped ironwood",
+  "block.atmospheric.yucca_branch": "Date palm branch",
+  "block.atmospheric.yucca_bundle": "Date bundle",
   "item.atmospheric.morado_boat": "Ironwood boat",
   "item.atmospheric.morado_chest_boat": "Ironwood boat with chest"
 }

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "regions_unexplored:block/apple_oak_sapling"
+    },
+    "render_type": "cutout"
+}

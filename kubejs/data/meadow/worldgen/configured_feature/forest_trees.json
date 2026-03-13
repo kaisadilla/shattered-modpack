@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "shattered:checked/tree/larch",
+    "features": [
+      {
+        "chance": 0.25,
+        "feature": "shattered:checked/tree/pine_with_ground"
+      },
+      {
+        "chance": 0.5,
+        "feature": "shattered:checked/tree/pine"
+      },
+      {
+        "chance": 0.075,
+        "feature": "shattered:checked/tree/hemlock"
+      },
+      {
+        "chance": 0.125,
+        "feature": "shattered:checked/tree/fir"
+      },
+      {
+        "chance": 0.075,
+        "feature": "environmental:plum_bees_005"
+      },
+      {
+        "chance": 0.075,
+        "feature": "environmental:cheerful_plum_bees_005"
+      },
+      {
+        "chance": 0.075,
+        "feature": "environmental:moody_plum_bees_005"
+      }
+    ]
+  }
+}
